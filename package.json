@@ -7,7 +7,7 @@
     "botstrap": "^0.20.1",
     "fastclick": "^1.0.6",
     "font-awesome": "4.6.3",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "jquery.easing": "^1.4.1",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
     "metismenu": "3.0.3",
